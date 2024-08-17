@@ -1,6 +1,4 @@
-Sure, here's an updated version of the `README.md` file for your Python Todo List application with emojis and symbols to make it more engaging:
 
-```markdown
 # 📝 Todo List Application
 
 ## 📋 Overview
